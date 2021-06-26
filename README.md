@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain/storytelling
 - 🌱 I’m currently learning python/javascript/solidity, though I'm a complete beginner!
 - 💞️ I’m looking to collaborate on any crypto/blockchain projects which involve manga/anime storytelling
-- 📫 How to reach me (@JohNostalg on Twitter)
+- 📫 You can reach to me on [Twitter](https://twitter.com/JohNostalg) 
 
 <!---
 JohNostalg/JohNostalg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
