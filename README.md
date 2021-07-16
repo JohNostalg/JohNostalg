@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Requiem, my skeleton avatar for Joh Nostalg
+- 👋 Hi, I’m Requiem 💀, my digital avatar for Joh Nostalg
 - 👀 I’m interested in blockchain/storytelling
 - 🌱 I’m currently learning python/javascript/solidity, though I'm a complete beginner!
 - 💞️ I’m looking to collaborate on any crypto/blockchain projects which involve manga/anime storytelling
