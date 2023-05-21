@@ -1,254 +1,280 @@
 [
     {
-        "Hero: Warrior"
-        "Name: Alphonse"
-        "Country: Japan"
-        "Colour: Red"
-        "Number: 1"
-    },
-    {
-        "Hero: Magician"
-        "Name: Park"
-        "Country: Isreal"
-        "Colour: Lilac"
-        "Number: 2"
-    },
-    {
-        "Hero: Common"
-        "Name: Rosario"
-        "Country: United States of America"
-        "Colour: Cyan"
-        "Number: 3"
-    },
-    {
-        "Hero: Martyr"
-        "Name: Sergey"
-        "Country: Russia"
-        "Colour: Mint"
-        "Number: 4"
-    },
-    {
-        "Hero: Rogue"
-        "Name: Silva"
-        "Country: France"
-        "Colour: Yellow"
-        "Number: 5"
-    },
-    {
-        "Hero: Noble"
-        "Name: Alexis"
-        "Country: China"
-        "Colour: Orange"
-        "Number: 6"
-    },
+        "Players" : [
+        { 
+            "Player": 1,
+            "Name" : "Requiem"
+
+        },
+        { 
+            "Player": 2,
+            "Name" : "Hymn"
+
+        },
+        { 
+            "Player": 3,
+            "Name" : "Kyrie"
+
+        },
+        { 
+            "Player": 4,
+            "Name" : "Gloria"
+
+        }
+        ],
+        "Heroes" : [
         {
-        "Hero: Spy"
-        "Name: Sachin"
-        "Country: India"
-        "Colour: Blue"
-        "Number: 7"
-    },
-    {
-        "Hero: Priest"
-        "Name: Isidore"
-        "Country: Italy"
-        "Colour: Rose"
-        "Number: 8"
-    },
-    {
-        "Hero: Criminal"
-        "Name: Melody"
-        "Country: Australia"
-        "Colour: Brown"
-        "Number: 9"
-    },
-    {
-        "Hero: Prophet"
-        "Name: Irina"
-        "Country: Germany"
-        "Colour: Shadow"
-        "Number: 10"
-    },
-    {
-        "Hero: Assassin"
-        "Name: Caoimhe"
-        "Country: Canada"
-        "Colour: White"
-        "Number: 11"
-    },
-    {
-        "Hero: King"
-        "Name: Leo"
-        "Country: Mongolia"
-        "Colour: Grey"
-        "Number: 12"
-    },
-    {
-        "Hero: Farmer"
-        "Name: Eustace"
-        "Country: Egypt"
-        "Colour: Maroon"
-        "Number: 13"
-    },
-    {
-        "Hero: Bishop"
-        "Name: Sarah"
-        "Country: Vatican City"
-        "Colour: Magenta"
-        "Number: 14"
-    },
-    {
-        "Hero: Doctor"
-        "Name: Hildegard"
-        "Country: England"
-        "Colour: Green"
-        "Number: 15"
-    },
-    {
-        "Hero: Barbarian"
-        "Name: Vladimira"
-        "Country: Mexico"
-        "Colour: Indigo"
-        "Number: 16"
-    },
-    {
-        "Hero: Bard"
-        "Name: Joseph"
-        "Country: Ireland"
-        "Colour: Forrest"
-        "Number: 17"
-    },
-    {
-        "Hero: Taverner"
-        "Name: Teresa"
-        "Country: South Africa"
-        "Colour: Teal"
-        "Number: 18"
-    },
-    {
-        "Hero: Lover"
-        "Name: Charlie"
-        "Country: Spain"
-        "Colour: Violet"
-        "Number: 19"
-    },
-    {
-        "Hero: Banker"
-        "Name: Clementine"
-        "Country: Switzerland"
-        "Colour: Lime"
-        "Number: 20"
-    },
-    {
-        "Hero: Prince"
-        "Name: Vincent"
-        "Country: San Marino"
-        "Colour: Midnight"
-        "Number: 21"
-    },
-    {
-        "Hero: Hacker"
-        "Name: Nazarov"
-        "Country: Korea"
-        "Colour: Iron"
-        "Number: 22"
-    },
-    {
-        "Hero: Legalist"
-        "Name: Wright"
-        "Country: Belgium"
-        "Colour: Charcoal"
-        "Number: 23"
-    },
-    {
-        "Hero: Engineer"
-        "Name: Johnson"
-        "Country: Pink"
-        "Colour: Finland"
-        "Number: 24"
-    },
-    {
-        "Hero: Artist"
-        "Name: Vi"
-        "Country: Hazel"
-        "Colour: Brasil"
-        "Number: 25"
-    },
-    {
-        "Hero: Scientist"
-        "Name: Bomba"
-        "Country: Greece"
-        "Colour: Amaranth"
-        "Number: 26"
-    },
-    {
-        "Hero: Pirate"
-        "Name: Dastardly"
-        "Country: Somalia"
-        "Colour: Copper"
-        "Number: 27"
-    },
-    {
-        "Hero: Alien"
-        "Name: AD-40"
-        "Country: Antarctica"
-        "Colour: Navy"
-        "Number: 28"
-    },
-    {
-        "Hero: Reporter"
-        "Name: Indra"
-        "Country: Turkey"
-        "Colour: Slate"
-        "Number: 29"
-    },
-    {
-        "Hero: Drifter"
-        "Name: Pyotr"
-        "Country: Kazathstan"
-        "Colour: Olive"
-        "Number: 30"
-    },
-    {
-        "Hero: Mercenary"
-        "Name: Shawn"
-        "Country: Indonseia"
-        "Colour: Viridian"
-        "Number: 31"
-    },
-    {
-        "Hero: Puppeteer"
-        "Name: Catherine"
-        "Country: Romania"
-        "Colour: Purple"
-        "Number: 32"
-    },
-    {
-        "Hero: Driver"
-        "Name: Shepherd"
-        "Country: Netherlands"
-        "Colour: Cerulean"
-        "Number: 33"
-    },
-    {
-        "Hero: Cleaner"
-        "Name: Maria"
-        "Country: Phillippines"
-        "Colour: Bronze"
-        "Number: 34"
-    },
-    {
-        "Hero: Worker"
-        "Name: Jose"
-        "Country: Nepal"
-        "Colour: Silver"
-        "Number: 35"
-    },
-    {
-        "Hero: Star"
-        "Name: Stella"
-        "Country: Saudi Arabia"
-        "Colour: Gold"
-        "Number: 36"
-    },
+            "Hero": "Warrior",
+            "Name": "Alphonse",
+            "Country": "Japan",
+            "Colour": "Red",
+            "Number": 1
+        },
+        {
+            "Hero": "Magician",
+            "Name": "Park",
+            "Country": "Isreal",
+            "Colour": "Lilac",
+            "Number": 2
+        },
+        {
+            "Hero": "Common",
+            "Name": "Rosario",
+            "Country": "United States of America",
+            "Colour": "Cyan",
+            "Number": 3
+        },
+        {
+            "Hero": "Martyr",
+            "Name": "Sergey",
+            "Country": "Russia",
+            "Colour": "Mint",
+            "Number": 4
+        },
+        {
+            "Hero": "Rogue",
+            "Name": "Silva",
+            "Country": "France",
+            "Colour": "Yellow",
+            "Number": 5
+        },
+        {
+            "Hero": "Noble",
+            "Name": "Alexis",
+            "Country": "China",
+            "Colour": "Orange",
+            "Number": 6
+        },
+        {
+            "Hero": "Spy",
+            "Name": "Sachin",
+            "Country": "India",
+            "Colour": "Blue",
+            "Number": 7
+        },
+        {
+            "Hero": "Priest",
+            "Name": "Isidore",
+            "Country": "Italy",
+            "Colour": "Rose",
+            "Number": 8
+        },
+        {
+            "Hero": "Criminal",
+            "Name": "Melody",
+            "Country": "Australia",
+            "Colour": "Brown",
+            "Number": 9
+        },
+        {
+            "Hero": "Prophet",
+            "Name": "Irina",
+            "Country": "Germany",
+            "Colour": "Shadow",
+            "Number": 10
+        },
+        {
+            "Hero": "Assassin",
+            "Name": "Caoimhe",
+            "Country": "Canada",
+            "Colour": "White",
+            "Number": 11
+        },
+        {
+            "Hero": "King",
+            "Name": "Leo",
+            "Country": "Mongolia",
+            "Colour": "Grey",
+            "Number": 12
+        },
+        {
+            "Hero": "Farmer",
+            "Name": "Eustace",
+            "Country": "Egypt",
+            "Colour": "Maroon",
+            "Number": 13
+        },
+        {
+            "Hero": "Bishop",
+            "Name": "Sarah",
+            "Country": "Vatican City",
+            "Colour": "Magenta",
+            "Number": 14
+        },
+        {
+            "Hero": "Doctor",
+            "Name": "Hildegard",
+            "Country": "England",
+            "Colour": "Green",
+            "Number": 15
+        },
+        {
+            "Hero": "Barbarian",
+            "Name": "Vladimira",
+            "Country": "Mexico",
+            "Colour": "Indigo",
+            "Number": 16
+        },
+        {
+            "Hero": "Bard",
+            "Name": "Joseph",
+            "Country": "Ireland",
+            "Colour": "Forrest",
+            "Number": 17
+        },
+        {
+            "Hero": "Taverner",
+            "Name": "Teresa",
+            "Country": "South Africa",
+            "Colour": "Teal",
+            "Number": 18
+        },
+        {
+            "Hero": "Lover",
+            "Name": "Charlie",
+            "Country": "Spain",
+            "Colour": "Violet",
+            "Number": 19
+        },
+        {
+            "Hero": "Banker",
+            "Name": "Clementine",
+            "Country": "Switzerland",
+            "Colour": "Lime",
+            "Number": 20
+        },
+        {
+            "Hero": "Prince",
+            "Name": "Vincent",
+            "Country": "San Marino",
+            "Colour": "Midnight",
+            "Number": 21
+        },
+        {
+            "Hero": "Hacker",
+            "Name": "Nazarov",
+            "Country": "Korea",
+            "Colour": "Iron",
+            "Number": 22
+        },
+        {
+            "Hero": "Legalist",
+            "Name": "Wright",
+            "Country": "Belgium",
+            "Colour": "Charcoal",
+            "Number": 23
+        },
+        {
+            "Hero": "Engineer",
+            "Name": "Johnson",
+            "Country": "Pink",
+            "Colour": "Finland",
+            "Number": 24
+        },
+        {
+            "Hero": "Artist",
+            "Name": "Vi",
+            "Country": "Hazel",
+            "Colour": "Brasil",
+            "Number": 25
+        },
+        {
+            "Hero": "Scientist",
+            "Name": "Bomba",
+            "Country": "Greece",
+            "Colour": "Amaranth",
+            "Number": 26
+        },
+        {
+            "Hero": "Pirate",
+            "Name": "Dastardly",
+            "Country": "Somalia",
+            "Colour": "Copper",
+            "Number": 27
+        },
+        {
+            "Hero": "Alien",
+            "Name": "AD-40",
+            "Country": "Antarctica",
+            "Colour": "Navy",
+            "Number": 28
+        },
+        {
+            "Hero": "Reporter",
+            "Name": "Indra",
+            "Country": "Turkey",
+            "Colour": "Slate",
+            "Number": 29
+        },
+        {
+            "Hero": "Drifter",
+            "Name": "Pyotr",
+            "Country": "Kazathstan",
+            "Colour": "Olive",
+            "Number": 30
+        },
+        {
+            "Hero": "Mercenary",
+            "Name": "Shawn",
+            "Country": "Indonseia",
+            "Colour": "Viridian",
+            "Number": 31
+        },
+        {
+            "Hero": "Puppeteer",
+            "Name": "Catherine",
+            "Country": "Romania",
+            "Colour": "Purple",
+            "Number": 32
+        },
+        {
+            "Hero": "Driver",
+            "Name": "Shepherd",
+            "Country": "Netherlands",
+            "Colour": "Cerulean",
+            "Number": 33
+        },
+        {
+            "Hero": "Cleaner",
+            "Name": "Maria",
+            "Country": "Phillippines",
+            "Colour": "Bronze",
+            "Number": 34
+        },
+        {
+            "Hero": "Worker",
+            "Name": "Jose",
+            "Country": "Nepal",
+            "Colour": "Silver",
+            "Number": 35
+        },
+        {
+            "Hero": "Star",
+            "Name": "Stella",
+            "Country": "Saudi Arabia",
+            "Colour": "Gold",
+            "Number": 36
+        }
+        ]
+    }
 ]
