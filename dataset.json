@@ -3,22 +3,38 @@
         "Players" : [
         { 
             "Player": 1,
-            "Name" : "Requiem"
+            "Dye" : "Red",
+            "Title" : "Requiem"
 
         },
         { 
             "Player": 2,
-            "Name" : "Hymn"
+            "Dye" : "Blue",
+            "Title" : "Hymn"
 
         },
         { 
             "Player": 3,
-            "Name" : "Kyrie"
+            "Dye" : "Green",
+            "Title" : "Kyrie"
 
         },
         { 
             "Player": 4,
-            "Name" : "Gloria"
+            "Dye" : "Yellow",
+            "Title" : "Gloria"
+
+        },
+        { 
+            "Player": 5,
+            "Dye" : "Purple",
+            "Title" : "Solemn"
+
+        },
+        { 
+            "Player": 6,
+            "Dye" : "Orange",
+            "Title" : "Missa"
 
         }
         ],
@@ -28,6 +44,11 @@
             "Name": "Alphonse",
             "Country": "Japan",
             "Colour": "Red",
+            "Place": "Bridge",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 1
         },
         {
@@ -35,6 +56,11 @@
             "Name": "Park",
             "Country": "Isreal",
             "Colour": "Lilac",
+            "Place": "Tower",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 2
         },
         {
@@ -42,6 +68,11 @@
             "Name": "Rosario",
             "Country": "United States of America",
             "Colour": "Cyan",
+            "Place": "Beach",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 3
         },
         {
@@ -49,6 +80,11 @@
             "Name": "Sergey",
             "Country": "Russia",
             "Colour": "Mint",
+            "Place": "Waterfall",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 4
         },
         {
@@ -56,6 +92,11 @@
             "Name": "Silva",
             "Country": "France",
             "Colour": "Yellow",
+            "Place": "Cavern",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 5
         },
         {
@@ -63,6 +104,11 @@
             "Name": "Alexis",
             "Country": "China",
             "Colour": "Orange",
+            "Place": "Town",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 6
         },
         {
@@ -70,6 +116,11 @@
             "Name": "Sachin",
             "Country": "India",
             "Colour": "Blue",
+            "Place": "Paradise",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 7
         },
         {
@@ -77,6 +128,11 @@
             "Name": "Isidore",
             "Country": "Italy",
             "Colour": "Rose",
+            "Place": "Cementary",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 8
         },
         {
@@ -84,6 +140,11 @@
             "Name": "Melody",
             "Country": "Australia",
             "Colour": "Brown",
+            "Place": "Jail",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 9
         },
         {
@@ -91,6 +152,11 @@
             "Name": "Irina",
             "Country": "Germany",
             "Colour": "Shadow",
+            "Place": "Forest",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 10
         },
         {
@@ -98,6 +164,11 @@
             "Name": "Caoimhe",
             "Country": "Canada",
             "Colour": "White",
+            "Place": "Watchtower",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 11
         },
         {
@@ -105,6 +176,11 @@
             "Name": "Leo",
             "Country": "Mongolia",
             "Colour": "Grey",
+            "Place": "Throne",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 12
         },
         {
@@ -112,6 +188,11 @@
             "Name": "Eustace",
             "Country": "Egypt",
             "Colour": "Maroon",
+            "Place": "Shed",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 13
         },
         {
@@ -119,6 +200,11 @@
             "Name": "Sarah",
             "Country": "Vatican City",
             "Colour": "Magenta",
+            "Place": "Cathedral",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 14
         },
         {
@@ -126,6 +212,11 @@
             "Name": "Hildegard",
             "Country": "England",
             "Colour": "Green",
+            "Place": "Hospital",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 15
         },
         {
@@ -133,6 +224,11 @@
             "Name": "Vladimira",
             "Country": "Mexico",
             "Colour": "Indigo",
+            "Place": "Desert",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 16
         },
         {
@@ -140,6 +236,11 @@
             "Name": "Joseph",
             "Country": "Ireland",
             "Colour": "Forrest",
+            "Place": "Theatre",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 17
         },
         {
@@ -147,6 +248,11 @@
             "Name": "Teresa",
             "Country": "South Africa",
             "Colour": "Teal",
+            "Place": "Hotel",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 18
         },
         {
@@ -154,6 +260,11 @@
             "Name": "Charlie",
             "Country": "Spain",
             "Colour": "Violet",
+            "Place": "Mirror",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 19
         },
         {
@@ -161,6 +272,11 @@
             "Name": "Clementine",
             "Country": "Switzerland",
             "Colour": "Lime",
+            "Place": "Bank",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 20
         },
         {
@@ -168,6 +284,11 @@
             "Name": "Vincent",
             "Country": "San Marino",
             "Colour": "Midnight",
+            "Place": "Castle",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 21
         },
         {
@@ -175,6 +296,11 @@
             "Name": "Nazarov",
             "Country": "Korea",
             "Colour": "Iron",
+            "Place": "Basement",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 22
         },
         {
@@ -182,6 +308,11 @@
             "Name": "Wright",
             "Country": "Belgium",
             "Colour": "Charcoal",
+            "Place": "Court",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 23
         },
         {
@@ -189,6 +320,11 @@
             "Name": "Johnson",
             "Country": "Pink",
             "Colour": "Finland",
+            "Place": "Garage",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 24
         },
         {
@@ -196,6 +332,11 @@
             "Name": "Vi",
             "Country": "Hazel",
             "Colour": "Brasil",
+            "Place": "House",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 25
         },
         {
@@ -203,6 +344,11 @@
             "Name": "Bomba",
             "Country": "Greece",
             "Colour": "Amaranth",
+            "Place": "Laboratory",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 26
         },
         {
@@ -210,6 +356,11 @@
             "Name": "Dastardly",
             "Country": "Somalia",
             "Colour": "Copper",
+            "Place": "Ship",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 27
         },
         {
@@ -217,6 +368,11 @@
             "Name": "AD-40",
             "Country": "Antarctica",
             "Colour": "Navy",
+            "Place": "Sea",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 28
         },
         {
@@ -224,6 +380,11 @@
             "Name": "Indra",
             "Country": "Turkey",
             "Colour": "Slate",
+            "Place": "Disaster",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 29
         },
         {
@@ -231,6 +392,11 @@
             "Name": "Pyotr",
             "Country": "Kazathstan",
             "Colour": "Olive",
+            "Place": "Underground",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 30
         },
         {
@@ -238,6 +404,11 @@
             "Name": "Shawn",
             "Country": "Indonseia",
             "Colour": "Viridian",
+            "Place": "Skyscraper",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 31
         },
         {
@@ -245,6 +416,11 @@
             "Name": "Catherine",
             "Country": "Romania",
             "Colour": "Purple",
+            "Place": "Palace",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 32
         },
         {
@@ -252,6 +428,11 @@
             "Name": "Shepherd",
             "Country": "Netherlands",
             "Colour": "Cerulean",
+            "Place": "Stadium",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 33
         },
         {
@@ -259,6 +440,11 @@
             "Name": "Maria",
             "Country": "Phillippines",
             "Colour": "Bronze",
+            "Place": "Slums",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 34
         },
         {
@@ -266,6 +452,11 @@
             "Name": "Jose",
             "Country": "Nepal",
             "Colour": "Silver",
+            "Place": "Office",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 35
         },
         {
@@ -273,6 +464,11 @@
             "Name": "Stella",
             "Country": "Saudi Arabia",
             "Colour": "Gold",
+            "Place": "Sky",
+            "Weapon": "",
+            "Prompt": "",
+            "Quote" : "",
+            "Power" : "",
             "Number": 36
         }
         ]
