@@ -4,36 +4,48 @@
         { 
             "Player": 1,
             "Dye" : "Red",
+            "Blind" : "Maroon",
+            "Emblem": "💀",
             "Title" : "Requiem"
 
         },
         { 
             "Player": 2,
             "Dye" : "Blue",
+            "Blind" : "Royalblue",
+            "Emblem": "🦋",
             "Title" : "Hymn"
 
         },
         { 
             "Player": 3,
             "Dye" : "Green",
+            "Blind" : "Dimgrey",
+            "Emblem": "🪖",
             "Title" : "Kyrie"
 
         },
         { 
             "Player": 4,
             "Dye" : "Yellow",
+            "Blind" : "Lightgrey",
+            "Emblem": "🏵️",
             "Title" : "Gloria"
 
         },
         { 
             "Player": 5,
             "Dye" : "Purple",
+            "Blind" : "Skyblue",
+            "Emblem": "🧣",
             "Title" : "Solemn"
 
         },
         { 
             "Player": 6,
             "Dye" : "Orange",
+            "Blind" : "Darkorange",
+            "Emblem": "👓",
             "Title" : "Missa"
 
         }
@@ -42,7 +54,12 @@
         {
             "Hero": "Warrior",
             "Name": "Alphonse",
-            "Country": "Japan",
+            "Country":[
+            { 
+                "Name": "Japan",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Red",
             "Place": "Bridge",
             "Weapon": "",
@@ -54,7 +71,12 @@
         {
             "Hero": "Magician",
             "Name": "Park",
-            "Country": "Isreal",
+            "Country":[
+            { 
+                "Name": "Isreal",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Lilac",
             "Place": "Tower",
             "Weapon": "",
@@ -66,7 +88,12 @@
         {
             "Hero": "Common",
             "Name": "Rosario",
-            "Country": "United States of America",
+            "Country":[
+            { 
+                "Name": "United States of America",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Cyan",
             "Place": "Beach",
             "Weapon": "",
@@ -78,7 +105,12 @@
         {
             "Hero": "Martyr",
             "Name": "Sergey",
-            "Country": "Russia",
+            "Country":[
+            { 
+                "Name": "Russia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Mint",
             "Place": "Waterfall",
             "Weapon": "",
@@ -90,7 +122,12 @@
         {
             "Hero": "Rogue",
             "Name": "Silva",
-            "Country": "France",
+            "Country":[
+            { 
+                "Name": "France",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Yellow",
             "Place": "Cavern",
             "Weapon": "",
@@ -102,7 +139,12 @@
         {
             "Hero": "Noble",
             "Name": "Alexis",
-            "Country": "China",
+            "Country":[
+            { 
+                "Name": "China",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Orange",
             "Place": "Town",
             "Weapon": "",
@@ -114,7 +156,12 @@
         {
             "Hero": "Spy",
             "Name": "Sachin",
-            "Country": "India",
+            "Country":[
+            { 
+                "Name": "India",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Blue",
             "Place": "Paradise",
             "Weapon": "",
@@ -126,7 +173,12 @@
         {
             "Hero": "Priest",
             "Name": "Isidore",
-            "Country": "Italy",
+            "Country":[
+            { 
+                "Name": "Italy",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Rose",
             "Place": "Cementary",
             "Weapon": "",
@@ -138,7 +190,12 @@
         {
             "Hero": "Criminal",
             "Name": "Melody",
-            "Country": "Australia",
+            "Country":[
+            { 
+                "Name": "Australia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Brown",
             "Place": "Jail",
             "Weapon": "",
@@ -150,7 +207,12 @@
         {
             "Hero": "Prophet",
             "Name": "Irina",
-            "Country": "Germany",
+            "Country":[
+            { 
+                "Name": "Germany",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Shadow",
             "Place": "Forest",
             "Weapon": "",
@@ -162,7 +224,12 @@
         {
             "Hero": "Assassin",
             "Name": "Caoimhe",
-            "Country": "Canada",
+            "Country":[
+            { 
+                "Name": "Canada",
+                "Emoji": ""
+            }
+            ],
             "Colour": "White",
             "Place": "Watchtower",
             "Weapon": "",
@@ -174,7 +241,12 @@
         {
             "Hero": "King",
             "Name": "Leo",
-            "Country": "Mongolia",
+            "Country":[
+            { 
+                "Name": "Mongolia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Grey",
             "Place": "Throne",
             "Weapon": "",
@@ -186,7 +258,12 @@
         {
             "Hero": "Farmer",
             "Name": "Eustace",
-            "Country": "Egypt",
+            "Country":[
+            { 
+                "Name": "Egypt",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Maroon",
             "Place": "Shed",
             "Weapon": "",
@@ -198,7 +275,12 @@
         {
             "Hero": "Bishop",
             "Name": "Sarah",
-            "Country": "Vatican City",
+            "Country":[
+            { 
+                "Name": "Vatican City",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Magenta",
             "Place": "Cathedral",
             "Weapon": "",
@@ -210,7 +292,12 @@
         {
             "Hero": "Doctor",
             "Name": "Hildegard",
-            "Country": "England",
+            "Country":[
+            { 
+                "Name": "England",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Green",
             "Place": "Hospital",
             "Weapon": "",
@@ -222,7 +309,12 @@
         {
             "Hero": "Barbarian",
             "Name": "Vladimira",
-            "Country": "Mexico",
+            "Country":[
+            { 
+                "Name": "Mexico",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Indigo",
             "Place": "Desert",
             "Weapon": "",
@@ -234,7 +326,12 @@
         {
             "Hero": "Bard",
             "Name": "Joseph",
-            "Country": "Ireland",
+            "Country":[
+            { 
+                "Name": "Ireland",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Forrest",
             "Place": "Theatre",
             "Weapon": "",
@@ -246,7 +343,12 @@
         {
             "Hero": "Taverner",
             "Name": "Teresa",
-            "Country": "South Africa",
+            "Country":[
+            { 
+                "Name": "South Africa",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Teal",
             "Place": "Hotel",
             "Weapon": "",
@@ -258,7 +360,12 @@
         {
             "Hero": "Lover",
             "Name": "Charlie",
-            "Country": "Spain",
+            "Country":[
+            { 
+                "Name": "Spain",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Violet",
             "Place": "Mirror",
             "Weapon": "",
@@ -270,7 +377,12 @@
         {
             "Hero": "Banker",
             "Name": "Clementine",
-            "Country": "Switzerland",
+            "Country":[
+            { 
+                "Name": "Switzerland",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Lime",
             "Place": "Bank",
             "Weapon": "",
@@ -282,7 +394,12 @@
         {
             "Hero": "Prince",
             "Name": "Vincent",
-            "Country": "San Marino",
+            "Country":[
+            { 
+                "Name": "San Marino",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Midnight",
             "Place": "Castle",
             "Weapon": "",
@@ -294,7 +411,12 @@
         {
             "Hero": "Hacker",
             "Name": "Nazarov",
-            "Country": "Korea",
+            "Country":[
+            { 
+                "Name": "Korea",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Iron",
             "Place": "Basement",
             "Weapon": "",
@@ -306,7 +428,12 @@
         {
             "Hero": "Legalist",
             "Name": "Wright",
-            "Country": "Belgium",
+            "Country":[
+            { 
+                "Name": "Belgium",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Charcoal",
             "Place": "Court",
             "Weapon": "",
@@ -318,7 +445,12 @@
         {
             "Hero": "Engineer",
             "Name": "Johnson",
-            "Country": "Pink",
+            "Country":[
+            { 
+                "Name": "Pink",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Finland",
             "Place": "Garage",
             "Weapon": "",
@@ -330,7 +462,12 @@
         {
             "Hero": "Artist",
             "Name": "Vi",
-            "Country": "Hazel",
+            "Country":[
+            { 
+                "Name": "Hazel",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Brasil",
             "Place": "House",
             "Weapon": "",
@@ -342,7 +479,12 @@
         {
             "Hero": "Scientist",
             "Name": "Bomba",
-            "Country": "Greece",
+            "Country":[
+            { 
+                "Name": "Greece",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Amaranth",
             "Place": "Laboratory",
             "Weapon": "",
@@ -354,7 +496,12 @@
         {
             "Hero": "Pirate",
             "Name": "Dastardly",
-            "Country": "Somalia",
+            "Country":[
+            { 
+                "Name": "Somalia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Copper",
             "Place": "Ship",
             "Weapon": "",
@@ -366,7 +513,12 @@
         {
             "Hero": "Alien",
             "Name": "AD-40",
-            "Country": "Antarctica",
+            "Country":[
+            { 
+                "Name": "Antarctica",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Navy",
             "Place": "Sea",
             "Weapon": "",
@@ -378,7 +530,12 @@
         {
             "Hero": "Reporter",
             "Name": "Indra",
-            "Country": "Turkey",
+            "Country":[
+            { 
+                "Name": "Turkey",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Slate",
             "Place": "Disaster",
             "Weapon": "",
@@ -390,7 +547,12 @@
         {
             "Hero": "Drifter",
             "Name": "Pyotr",
-            "Country": "Kazathstan",
+            "Country":[
+            { 
+                "Name": "Kazathstan",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Olive",
             "Place": "Underground",
             "Weapon": "",
@@ -402,7 +564,12 @@
         {
             "Hero": "Mercenary",
             "Name": "Shawn",
-            "Country": "Indonseia",
+            "Country":[
+            { 
+                "Name": "Indonseia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Viridian",
             "Place": "Skyscraper",
             "Weapon": "",
@@ -414,7 +581,12 @@
         {
             "Hero": "Puppeteer",
             "Name": "Catherine",
-            "Country": "Romania",
+            "Country":[
+            { 
+                "Name": "Romania",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Purple",
             "Place": "Palace",
             "Weapon": "",
@@ -426,7 +598,12 @@
         {
             "Hero": "Driver",
             "Name": "Shepherd",
-            "Country": "Netherlands",
+            "Country":[
+            { 
+                "Name": "Netherlands",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Cerulean",
             "Place": "Stadium",
             "Weapon": "",
@@ -438,7 +615,12 @@
         {
             "Hero": "Cleaner",
             "Name": "Maria",
-            "Country": "Phillippines",
+            "Country":[
+            { 
+                "Name": "Phillippines",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Bronze",
             "Place": "Slums",
             "Weapon": "",
@@ -450,7 +632,12 @@
         {
             "Hero": "Worker",
             "Name": "Jose",
-            "Country": "Nepal",
+            "Country":[
+            { 
+                "Name": "Nepal",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Silver",
             "Place": "Office",
             "Weapon": "",
@@ -462,7 +649,12 @@
         {
             "Hero": "Star",
             "Name": "Stella",
-            "Country": "Saudi Arabia",
+            "Country":[
+            { 
+                "Name": "Saudi Arabia",
+                "Emoji": ""
+            }
+            ],
             "Colour": "Gold",
             "Place": "Sky",
             "Weapon": "",
