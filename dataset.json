@@ -3,50 +3,56 @@
         "Players" : [
         { 
             "Player": 1,
-            "Dye" : "Red",
-            "Blind" : "Maroon",
-            "Emblem": "💀",
-            "Title" : "Requiem"
+            "Color" : "Red",
+            "Alt Color" : "Firebrick",
+            "Emoji": "💀",
+            "Power": "Create",
+            "Name" : "Requiem"
 
         },
         { 
             "Player": 2,
-            "Dye" : "Blue",
-            "Blind" : "Royalblue",
-            "Emblem": "🦋",
-            "Title" : "Hymn"
+            "Color" : "Blue",
+            "Alternate" : "Royalblue",
+            "Emoji": "🦋",
+            "Power": "Drop",
+            "Name" : "Hymn"
 
         },
         { 
             "Player": 3,
-            "Dye" : "Green",
-            "Blind" : "Dimgrey",
-            "Emblem": "🪖",
-            "Title" : "Kyrie"
+            "Color" : "Green",
+            "Alternate" : "Dimgrey",
+            "Emoji": "🪖",
+            "Power": "Alter",
+            "Name" : "Kyrie"
 
         },
         { 
             "Player": 4,
-            "Dye" : "Yellow",
-            "Blind" : "Lightgrey",
-            "Emblem": "🏵️",
-            "Title" : "Gloria"
+            "Color" : "Yellow",
+            "Alternate" : "Lightgrey",
+            "Emoji": "🏵️",
+            "Power": "Join",
+            "Name" : "Gloria"
 
         },
         { 
             "Player": 5,
-            "Dye" : "Purple",
-            "Blind" : "Skyblue",
-            "Emblem": "🧣",
-            "Title" : "Solemn"
+            "Color" : "Purple",
+            "Alternate" : "Skyblue",
+            "Emoji": "🧣",
+            "Power": "Select",
+            "Name" : "Solemn"
 
         },
         { 
             "Player": 6,
-            "Dye" : "Orange",
-            "Blind" : "Darkorange",
-            "Emblem": "👓",
-            "Title" : "Missa"
+            "Color" : "Orange",
+            "Alternate" : "Darkorange",
+            "Emoji": "👓",
+            "Power": "View",
+            "Name" : "Missa"
 
         }
         ],
@@ -57,15 +63,18 @@
             "Country":[
             { 
                 "Name": "Japan",
-                "Emoji": ""
+                "Emoji": "🇯🇵"
             }
             ],
-            "Colour": "Red",
+            "Color": "Crimson",
             "Place": "Bridge",
-            "Weapon": "",
-            "Prompt": "",
+            "Weapon": "Warsword",
+            "Prompt": "The Last Chance",
             "Quote" : "",
-            "Power" : "",
+            "Power" : "Blood",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 1
         },
         {
@@ -73,16 +82,19 @@
             "Name": "Park",
             "Country":[
             { 
-                "Name": "Isreal",
+                "Name": "Israel",
                 "Emoji": ""
             }
             ],
-            "Colour": "Lilac",
+            "Color": "Plum",
             "Place": "Tower",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 2
         },
         {
@@ -94,12 +106,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Cyan",
+            "Color": "PaleTurquoise",
             "Place": "Beach",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 3
         },
         {
@@ -111,12 +126,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Mint",
+            "Color": "PaleGreen",
             "Place": "Waterfall",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 4
         },
         {
@@ -128,12 +146,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Yellow",
+            "Color": "Gold",
             "Place": "Cavern",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 5
         },
         {
@@ -145,12 +166,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Orange",
+            "Color": "Moccasin",
             "Place": "Town",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 6
         },
         {
@@ -162,12 +186,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Blue",
+            "Color": "Dodgerblue",
             "Place": "Paradise",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 7
         },
         {
@@ -179,12 +206,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Rose",
+            "Color": "Thistle",
             "Place": "Cementary",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 8
         },
         {
@@ -196,12 +226,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Brown",
+            "Color": "Sandybrown",
             "Place": "Jail",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 9
         },
         {
@@ -213,12 +246,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Shadow",
+            "Color": "Grey",
             "Place": "Forest",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 10
         },
         {
@@ -230,12 +266,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "White",
+            "Color": "Snow",
             "Place": "Watchtower",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 11
         },
         {
@@ -247,12 +286,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Grey",
+            "Color": "Gainsboro",
             "Place": "Throne",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 12
         },
         {
@@ -264,12 +306,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Maroon",
+            "Color": "Maroon",
             "Place": "Shed",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 13
         },
         {
@@ -281,12 +326,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Magenta",
+            "Color": "Magenta",
             "Place": "Cathedral",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 14
         },
         {
@@ -298,12 +346,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Green",
+            "Color": "Palegreen",
             "Place": "Hospital",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 15
         },
         {
@@ -315,12 +366,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Indigo",
+            "Color": "Darkorchid",
             "Place": "Desert",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 16
         },
         {
@@ -332,12 +386,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Forrest",
+            "Color": "Forestgreen",
             "Place": "Theatre",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 17
         },
         {
@@ -349,12 +406,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Teal",
+            "Color": "Mediumaquamarine",
             "Place": "Hotel",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 18
         },
         {
@@ -366,12 +426,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Violet",
+            "Color": "Violet",
             "Place": "Mirror",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 19
         },
         {
@@ -383,12 +446,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Lime",
+            "Color": "Chartreuse",
             "Place": "Bank",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 20
         },
         {
@@ -400,12 +466,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Midnight",
+            "Color": "Navy",
             "Place": "Castle",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 21
         },
         {
@@ -417,12 +486,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Iron",
+            "Color": "Rosybrown",
             "Place": "Basement",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 22
         },
         {
@@ -434,12 +506,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Charcoal",
+            "Color": "Darkslategrey",
             "Place": "Court",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 23
         },
         {
@@ -451,12 +526,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Finland",
+            "Color": "Finland",
             "Place": "Garage",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 24
         },
         {
@@ -464,16 +542,19 @@
             "Name": "Vi",
             "Country":[
             { 
-                "Name": "Hazel",
+                "Name": "Brasil",
                 "Emoji": ""
             }
             ],
-            "Colour": "Brasil",
+            "Color": "Khaki",
             "Place": "House",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 25
         },
         {
@@ -485,12 +566,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Amaranth",
+            "Color": "Tomato",
             "Place": "Laboratory",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 26
         },
         {
@@ -502,12 +586,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Copper",
+            "Color": "Chocolate",
             "Place": "Ship",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 27
         },
         {
@@ -519,12 +606,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Navy",
+            "Color": "Slateblue",
             "Place": "Sea",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 28
         },
         {
@@ -536,12 +626,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Slate",
+            "Color": "Lightslategrey",
             "Place": "Disaster",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 29
         },
         {
@@ -553,12 +646,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Olive",
+            "Color": "Olivedrab",
             "Place": "Underground",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 30
         },
         {
@@ -570,12 +666,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Viridian",
+            "Color": "Lightseagreen",
             "Place": "Skyscraper",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 31
         },
         {
@@ -587,12 +686,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Purple",
+            "Color": "rebeccapurple",
             "Place": "Palace",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 32
         },
         {
@@ -604,12 +706,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Cerulean",
+            "Color": "Cornflowerblue",
             "Place": "Stadium",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 33
         },
         {
@@ -621,12 +726,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Bronze",
+            "Color": "Tan",
             "Place": "Slums",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 34
         },
         {
@@ -638,12 +746,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Silver",
+            "Color": "Whitesmoke",
             "Place": "Office",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 35
         },
         {
@@ -655,12 +766,15 @@
                 "Emoji": ""
             }
             ],
-            "Colour": "Gold",
+            "Color": "LemonChiffon",
             "Place": "Sky",
             "Weapon": "",
             "Prompt": "",
             "Quote" : "",
             "Power" : "",
+            "Mr Miss": "",
+            "Pluchick": "",
+            "Virtue": "",
             "Number": 36
         }
         ]
