@@ -22,7 +22,7 @@
         { 
             "Player": 3,
             "Color" : "Green",
-            "Alternate" : "Dimgrey",
+            "Alternate" : "Mediumseagreen",
             "Emoji": "🪖",
             "Power": "Alter",
             "Name" : "Kyrie"
@@ -31,7 +31,7 @@
         { 
             "Player": 4,
             "Color" : "Yellow",
-            "Alternate" : "Lightgrey",
+            "Alternate" : "Lightgoldenrod",
             "Emoji": "🏵️",
             "Power": "Join",
             "Name" : "Gloria"
@@ -40,7 +40,7 @@
         { 
             "Player": 5,
             "Color" : "Purple",
-            "Alternate" : "Skyblue",
+            "Alternate" : "Lightgrey",
             "Emoji": "🧣",
             "Power": "Select",
             "Name" : "Solemn"
@@ -49,7 +49,7 @@
         { 
             "Player": 6,
             "Color" : "Orange",
-            "Alternate" : "Darkorange",
+            "Alternate" : "Black",
             "Emoji": "👓",
             "Power": "View",
             "Name" : "Missa"
