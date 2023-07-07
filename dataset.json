@@ -49,7 +49,7 @@
         { 
             "Player": 6,
             "Color" : "Orange",
-            "Alternate" : "Black",
+            "Alternate" : "Dimgrey",
             "Emoji": "👓",
             "Power": "View",
             "Name" : "Missa"
