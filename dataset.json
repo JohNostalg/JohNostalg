@@ -163,18 +163,18 @@
             "Country":[
             { 
                 "Name": "China",
-                "Emoji": ""
+                "Emoji": "🇨🇳"
             }
             ],
             "Color": "Moccasin",
             "Place": "Town",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Glaive",
+            "Prompt": "The People's Champion",
+            "Quote" : "Urgh. Not again",
+            "Power" : "Gather",
+            "Mr Miss": "Angry",
+            "Pluchick": "Anger",
+            "Virtue": "Tolerance",
             "Number": 6
         },
         {
