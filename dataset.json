@@ -83,18 +83,18 @@
             "Country":[
             { 
                 "Name": "Israel",
-                "Emoji": ""
+                "Emoji": "🇮🇱"
             }
             ],
             "Color": "Plum",
             "Place": "Tower",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Bec de corbin",
+            "Prompt": "The Trial of Despair",
+            "Quote" : "I PISS ON YOUR ANCESTORS!",
+            "Power" : "Orb",
+            "Mr Miss": "Loud",
+            "Pluchick": "Ecstasy",
+            "Virtue": "Honesty",
             "Number": 2
         },
         {
@@ -103,7 +103,7 @@
             "Country":[
             { 
                 "Name": "United States of America",
-                "Emoji": ""
+                "Emoji": "🇺🇸"
             }
             ],
             "Color": "PaleTurquoise",
