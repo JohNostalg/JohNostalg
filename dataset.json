@@ -108,13 +108,13 @@
             ],
             "Color": "PaleTurquoise",
             "Place": "Beach",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Spear",
+            "Prompt": "The Best Ever",
+            "Quote" : "Huehuehue.",
+            "Power" : "Curse",
+            "Mr Miss": "Happy",
+            "Pluchick": "Joy",
+            "Virtue": "Forgiveness",
             "Number": 3
         },
         {
@@ -123,18 +123,18 @@
             "Country":[
             { 
                 "Name": "Russia",
-                "Emoji": ""
+                "Emoji": "🇷🇺"
             }
             ],
             "Color": "PaleGreen",
             "Place": "Waterfall",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Executioner",
+            "Prompt": "The Sacrificial Lamb",
+            "Quote" : "So be it.",
+            "Power" : "Fate",
+            "Mr Miss": "Grumpy",
+            "Pluchick": "Apprehension",
+            "Virtue": "Wisdom",
             "Number": 4
         },
         {
@@ -143,18 +143,18 @@
             "Country":[
             { 
                 "Name": "France",
-                "Emoji": ""
+                "Emoji": "🇫🇷"
             }
             ],
             "Color": "Gold",
             "Place": "Cavern",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Arquebus",
+            "Prompt": "The Honest Traitor",
+            "Quote" : "I'm not your friend.",
+            "Power" : "Steal",
+            "Mr Miss": "Mean",
+            "Pluchick": "Annoyance",
+            "Virtue": "Moderation",
             "Number": 5
         },
         {
@@ -170,7 +170,7 @@
             "Place": "Town",
             "Weapon": "Glaive",
             "Prompt": "The People's Champion",
-            "Quote" : "Urgh. Not again",
+            "Quote" : "Urgh. Not again!",
             "Power" : "Gather",
             "Mr Miss": "Angry",
             "Pluchick": "Anger",
@@ -183,18 +183,18 @@
             "Country":[
             { 
                 "Name": "India",
-                "Emoji": ""
+                "Emoji": "🇮🇳"
             }
             ],
             "Color": "Dodgerblue",
             "Place": "Paradise",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Halberd",
+            "Prompt": "The God of Time",
+            "Quote" : "I'm better then you!",
+            "Power" : "Copy",
+            "Mr Miss": "Smart",
+            "Pluchick": "Contempt",
+            "Virtue": "Tact",
             "Number": 7
         },
         {
