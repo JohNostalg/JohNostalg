@@ -243,7 +243,7 @@
             "Country":[
             { 
                 "Name": "Germany",
-                "Emoji": ""
+                "Emoji": "🇩🇪"
             }
             ],
             "Color": "Grey",
@@ -263,7 +263,7 @@
             "Country":[
             { 
                 "Name": "Canada",
-                "Emoji": ""
+                "Emoji": "🇨🇦"
             }
             ],
             "Color": "Snow",
@@ -283,18 +283,18 @@
             "Country":[
             { 
                 "Name": "Mongolia",
-                "Emoji": ""
+                "Emoji": "🇲🇳"
             }
             ],
             "Color": "Gainsboro",
             "Place": "Throne",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Swordstaff",
+            "Prompt": "The End of Emperors",
+            "Quote" : "BY THE POWER OF GOOD AND EVIL...",
+            "Power" : "Wrath",
+            "Mr Miss": "Confused",
+            "Pluchick": "Viligence",
+            "Virtue": "Patriotism",
             "Number": 12
         },
         {
@@ -303,18 +303,18 @@
             "Country":[
             { 
                 "Name": "Egypt",
-                "Emoji": ""
+                "Emoji": "🇪🇬"
             }
             ],
             "Color": "Maroon",
             "Place": "Shed",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Flail scythe",
+            "Prompt": "The Depths of Poverty",
+            "Quote" : "It's a struggle, living...",
+            "Power" : "Life",
+            "Mr Miss": "Lonely",
+            "Pluchick": "Grief",
+            "Virtue": "Humility",
             "Number": 13
         },
         {
@@ -323,18 +323,18 @@
             "Country":[
             { 
                 "Name": "Vatican City",
-                "Emoji": ""
+                "Emoji": "🇻🇦"
             }
             ],
             "Color": "Magenta",
             "Place": "Cathedral",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "stick",
+            "Prompt": "An Article of Conscience",
+            "Quote" : "This whole world is a mess...",
+            "Power" : "Death",
+            "Mr Miss": "Serious",
+            "Pluchick": "Disgust",
+            "Virtue": "Prayerfulness",
             "Number": 14
         },
         {
@@ -343,18 +343,18 @@
             "Country":[
             { 
                 "Name": "United Kingdom",
-                "Emoji": ""
+                "Emoji": "🇬🇧"
             }
             ],
             "Color": "Palegreen",
             "Place": "Hospital",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Bilhook",
+            "Prompt": "The Trip to Immortality",
+            "Quote" : "Remember to drink water!",
+            "Power" : "Crow",
+            "Mr Miss": "Curious",
+            "Pluchick": "Admiration",
+            "Virtue": "Helpfulness",
             "Number": 15
         },
         {
@@ -363,18 +363,18 @@
             "Country":[
             { 
                 "Name": "Mexico",
-                "Emoji": ""
+                "Emoji": "🇲🇽"
             }
             ],
             "Color": "Darkorchid",
             "Place": "Desert",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Atlatl war darts",
+            "Prompt": "The Pursuit of Destruction",
+            "Quote" : "*Waves menacingly*",
+            "Power" : "Fury",
+            "Mr Miss": "Violent",
+            "Pluchick": "Rage",
+            "Virtue": "Kindness",
             "Number": 16
         },
         {
