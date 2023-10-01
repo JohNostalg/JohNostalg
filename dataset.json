@@ -203,18 +203,18 @@
             "Country":[
             { 
                 "Name": "Italy",
-                "Emoji": ""
+                "Emoji": "🇮🇹"
             }
             ],
             "Color": "Thistle",
             "Place": "Cementary",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Long frying pan",
+            "Prompt": "Father Pink's Mysteries",
+            "Quote" : "Peace be with you, aha.",
+            "Power" : "Collect",
+            "Mr Miss": "Dandy",
+            "Pluchick": "Serenity",
+            "Virtue": "Respect",
             "Number": 8
         },
         {
@@ -223,18 +223,18 @@
             "Country":[
             { 
                 "Name": "Australia",
-                "Emoji": ""
+                "Emoji": "🇦🇺"
             }
             ],
             "Color": "Sandybrown",
             "Place": "Jail",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Knife",
+            "Prompt": "Unchained Discovery",
+            "Quote" : "OHOHOHO.",
+            "Power" : "Blink",
+            "Mr Miss": "Cheeky",
+            "Pluchick": "Sadness",
+            "Virtue": "Assertiveness",
             "Number": 9
         },
         {
@@ -248,13 +248,13 @@
             ],
             "Color": "Grey",
             "Place": "Forest",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Crossbow",
+            "Prompt": "The Future Rewritten",
+            "Quote" : "Please leave me be...",
+            "Power" : "Butterfly",
+            "Mr Miss": "Shy",
+            "Pluchick": "Anticipation",
+            "Virtue": "Foresight",
             "Number": 10
         },
         {
@@ -268,13 +268,13 @@
             ],
             "Color": "Snow",
             "Place": "Watchtower",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Rapier and dagger",
+            "Prompt": "Apocalypse Finish",
+            "Quote" : "Hi Fren. Bye Fren.",
+            "Power" : "Light",
+            "Mr Miss": "Lazy",
+            "Pluchick": "Boredom",
+            "Virtue": "Truthfulness",
             "Number": 11
         },
         {
