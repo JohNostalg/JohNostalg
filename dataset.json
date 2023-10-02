@@ -383,18 +383,18 @@
             "Country":[
             { 
                 "Name": "Ireland",
-                "Emoji": ""
+                "Emoji": "🇮🇪"
             }
             ],
             "Color": "Forestgreen",
             "Place": "Theatre",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Recurve longbow",
+            "Prompt": "The Finniest Song in the World",
+            "Quote" : "Let's have fun!",
+            "Power" : "Dance",
+            "Mr Miss": "Silly",
+            "Pluchick": "Trust",
+            "Virtue": "Generosity",
             "Number": 17
         },
         {
@@ -403,18 +403,18 @@
             "Country":[
             { 
                 "Name": "South Africa",
-                "Emoji": ""
+                "Emoji": "🇿🇦"
             }
             ],
             "Color": "Mediumaquamarine",
             "Place": "Hotel",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Blunderbuss gunaxe",
+            "Prompt": "Establishing a Business",
+            "Quote" : "How does this help us?",
+            "Power" : "Pub",
+            "Mr Miss": "Stubborn",
+            "Pluchick": "Pensiveness",
+            "Virtue": "Friendliness",
             "Number": 18
         },
         {
@@ -423,18 +423,18 @@
             "Country":[
             { 
                 "Name": "Spain",
-                "Emoji": ""
+                "Emoji": "🇪🇸"
             }
             ],
             "Color": "Violet",
             "Place": "Mirror",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Mancatcher",
+            "Prompt": "Virtue and Vice",
+            "Quote" : "I do adore you.",
+            "Power" : "Vibration",
+            "Mr Miss": "Confident",
+            "Pluchick": "Love",
+            "Virtue": "Courtesy",
             "Number": 19
         },
         {
@@ -443,18 +443,18 @@
             "Country":[
             { 
                 "Name": "Switzerland",
-                "Emoji": ""
+                "Emoji": "🇨🇭"
             }
             ],
             "Color": "Chartreuse",
             "Place": "Bank",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Pistol",
+            "Prompt": "The Financial Inquisition",
+            "Quote" : "You owe me money.",
+            "Power" : "Judgement",
+            "Mr Miss": "Bossy",
+            "Pluchick": "Disapproval",
+            "Virtue": "Service",
             "Number": 20
         },
         {
@@ -463,18 +463,18 @@
             "Country":[
             { 
                 "Name": "San Marino",
-                "Emoji": ""
+                "Emoji": "🇸🇲"
             }
             ],
             "Color": "Navy",
             "Place": "Castle",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Zweihander",
+            "Prompt": "The Treaty of Nations",
+            "Quote" : "A pleasure!",
+            "Power" : "War",
+            "Mr Miss": "Cool",
+            "Pluchick": "Remorse",
+            "Virtue": "Leadership",
             "Number": 21
         },
         {
@@ -488,13 +488,13 @@
             ],
             "Color": "Rosybrown",
             "Place": "Basement",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Crutch katars",
+            "Prompt": "Technological Void",
+            "Quote" : "Burn it all down...",
+            "Power" : "Chaos",
+            "Mr Miss": "Rude",
+            "Pluchick": "Terror",
+            "Virtue": "Greatness",
             "Number": 22
         },
         {
@@ -503,18 +503,18 @@
             "Country":[
             { 
                 "Name": "Belgium",
-                "Emoji": ""
+                "Emoji": "🇧🇪"
             }
             ],
             "Color": "Darkslategrey",
             "Place": "Court",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Gunsaber cloak",
+            "Prompt": "Charged with Innocence",
+            "Quote" : "Stop! You're breaking the law!",
+            "Power" : "Order",
+            "Mr Miss": "Talkative",
+            "Pluchick": "Amazement",
+            "Virtue": "Justice",
             "Number": 23
         },
         {
@@ -522,19 +522,19 @@
             "Name": "Johnson",
             "Country":[
             { 
-                "Name": "Pink",
-                "Emoji": ""
+                "Name": "Finland",
+                "Emoji": "🇫🇮"
             }
             ],
-            "Color": "Finland",
+            "Color": "Pink",
             "Place": "Garage",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Goedendag",
+            "Prompt": "Challenge convention",
+            "Quote" : "Didn't expect that did you?",
+            "Power" : "Earth",
+            "Mr Miss": "Clever",
+            "Pluchick": "Hope",
+            "Virtue": "Industriousness",
             "Number": 24
         },
         {
@@ -542,19 +542,19 @@
             "Name": "Vi",
             "Country":[
             { 
-                "Name": "Brasil",
-                "Emoji": ""
+                "Name": "Brazil",
+                "Emoji": "🇧🇷"
             }
             ],
             "Color": "Khaki",
             "Place": "House",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Battle axe",
+            "Prompt": "Edge of Insanity",
+            "Quote" : "Protect the artists!",
+            "Power" : "Air",
+            "Mr Miss": "Protective",
+            "Pluchick": "Envy",
+            "Virtue": "Docility",
             "Number": 25
         },
         {
@@ -563,18 +563,18 @@
             "Country":[
             { 
                 "Name": "Greece",
-                "Emoji": ""
+                "Emoji": "🇬🇷"
             }
             ],
             "Color": "Tomato",
             "Place": "Laboratory",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Sock sling rock bombs",
+            "Prompt": "Unscientific Method",
+            "Quote" : "Your hypothesis... test it.",
+            "Power" : "Fire",
+            "Mr Miss": "Scary",
+            "Pluchick": "Interest",
+            "Virtue": "Orderliness",
             "Number": 26
         },
         {
@@ -583,18 +583,18 @@
             "Country":[
             { 
                 "Name": "Somalia",
-                "Emoji": ""
+                "Emoji": "🇸🇴"
             }
             ],
             "Color": "Chocolate",
             "Place": "Ship",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Gauntlet sword",
+            "Prompt": "The Neverending Adventure",
+            "Quote" : "Next quest, here we go!",
+            "Power" : "Void",
+            "Mr Miss": "Jolly",
+            "Pluchick": "Optimism",
+            "Virtue": "Patience",
             "Number": 27
         },
         {
@@ -603,18 +603,18 @@
             "Country":[
             { 
                 "Name": "Antarctica",
-                "Emoji": ""
+                "Emoji": "🇦🇶"
             }
             ],
             "Color": "Slateblue",
             "Place": "Sea",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Macuahuitl",
+            "Prompt": "The Endless Vaccum of Existence",
+            "Quote" : "😊😊😊",
+            "Power" : "Water",
+            "Mr Miss": "Cheerful",
+            "Pluchick": "Wonder",
+            "Virtue": "Peacefullness",
             "Number": 28
         },
         {
@@ -623,18 +623,18 @@
             "Country":[
             { 
                 "Name": "Turkey",
-                "Emoji": ""
+                "Emoji": "🇹🇷"
             }
             ],
             "Color": "Lightslategrey",
             "Place": "Disaster",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Mace and shield",
+            "Prompt": "The Chaser Effect",
+            "Quote" : "You seem interesting...",
+            "Power" : "Note",
+            "Mr Miss": "Adventurous",
+            "Pluchick": "Surprise",
+            "Virtue": "Modesty",
             "Number": 29
         },
         {
@@ -643,18 +643,18 @@
             "Country":[
             { 
                 "Name": "Kazathstan",
-                "Emoji": ""
+                "Emoji": "🇰🇿"
             }
             ],
             "Color": "Olivedrab",
             "Place": "Underground",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Dueling shield",
+            "Prompt": "Unwanted Toys",
+            "Quote" : "There is no home for this soul.",
+            "Power" : "Cat",
+            "Mr Miss": "Vengeful",
+            "Pluchick": "Fear",
+            "Virtue": "Loyalty",
             "Number": 30
         },
         {
@@ -663,18 +663,18 @@
             "Country":[
             { 
                 "Name": "Indonseia",
-                "Emoji": ""
+                "Emoji": "🇮🇩"
             }
             ],
             "Color": "Lightseagreen",
             "Place": "Skyscraper",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Musket sniper rifle",
+            "Prompt": "The Gears of Society",
+            "Quote" : "I'm just here to be paid.",
+            "Power" : "Lucky",
+            "Mr Miss": "Greedy",
+            "Pluchick": "Acceptance",
+            "Virtue": "Responsibility",
             "Number": 31
         },
         {
@@ -683,18 +683,18 @@
             "Country":[
             { 
                 "Name": "Romania",
-                "Emoji": ""
+                "Emoji": "🇷🇴"
             }
             ],
-            "Color": "rebeccapurple",
+            "Color": "Rebeccapurple",
             "Place": "Palace",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Whip",
+            "Prompt": "The Depths of Hell",
+            "Quote" : "Peasants! Away with you!",
+            "Power" : "Oni",
+            "Mr Miss": "Mysterious",
+            "Pluchick": "Loathing",
+            "Virtue": "Purposefulness",
             "Number": 32
         },
         {
@@ -703,18 +703,18 @@
             "Country":[
             { 
                 "Name": "Netherlands",
-                "Emoji": ""
+                "Emoji": "🇳🇱"
             }
             ],
             "Color": "Cornflowerblue",
             "Place": "Stadium",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Warhammer",
+            "Prompt": "The Greatest Death Race",
+            "Quote" : "GET OUT OF MY WAY!",
+            "Power" : "Zone",
+            "Mr Miss": "Strong",
+            "Pluchick": "Pride",
+            "Virtue": "Self-Control",
             "Number": 33
         },
         {
@@ -722,19 +722,19 @@
             "Name": "Maria",
             "Country":[
             { 
-                "Name": "Phillippines",
-                "Emoji": ""
+                "Name": "Philippines",
+                "Emoji": "🇵🇭"
             }
             ],
             "Color": "Tan",
             "Place": "Slums",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Broom",
+            "Prompt": "The Pursuit of Happiness",
+            "Quote" : "*Sweeps the floor*",
+            "Power" : "Manipulation",
+            "Mr Miss": "Quiet",
+            "Pluchick": "Distraction",
+            "Virtue": "Forgiveness",
             "Number": 34
         },
         {
@@ -743,18 +743,18 @@
             "Country":[
             { 
                 "Name": "Nepal",
-                "Emoji": ""
+                "Emoji": "🇳🇵"
             }
             ],
             "Color": "Whitesmoke",
             "Place": "Office",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Falchion and buckler",
+            "Prompt": "The Endless Cycle",
+            "Quote" : "I'm not an NPC!",
+            "Power" : "Grind",
+            "Mr Miss": "Nervous",
+            "Pluchick": "Submission",
+            "Virtue": "Obedience",
             "Number": 35
         },
         {
@@ -763,18 +763,18 @@
             "Country":[
             { 
                 "Name": "Saudi Arabia",
-                "Emoji": ""
+                "Emoji": "🇸🇦"
             }
             ],
             "Color": "LemonChiffon",
             "Place": "Sky",
-            "Weapon": "",
-            "Prompt": "",
-            "Quote" : "",
-            "Power" : "",
-            "Mr Miss": "",
-            "Pluchick": "",
-            "Virtue": "",
+            "Weapon": "Swordbreaker",
+            "Prompt": "The End of the World",
+            "Quote" : "I'm here for you!",
+            "Power" : "Command",
+            "Mr Miss": "Sunshine",
+            "Pluchick": "Awe",
+            "Virtue": "Meekness",
             "Number": 36
         }
         ]
