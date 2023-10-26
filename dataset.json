@@ -6,7 +6,7 @@
             "Color" : "Red",
             "Alt Color" : "Firebrick",
             "Emoji": "💀",
-            "Power": "Create",
+            "Power": "Creation",
             "Name" : "Requiem"
 
         },
@@ -15,7 +15,7 @@
             "Color" : "Blue",
             "Alternate" : "Royalblue",
             "Emoji": "🦋",
-            "Power": "Drop",
+            "Power": "Destruction",
             "Name" : "Hymn"
 
         },
@@ -24,7 +24,7 @@
             "Color" : "Green",
             "Alternate" : "Mediumseagreen",
             "Emoji": "🪖",
-            "Power": "Alter",
+            "Power": "Alteration",
             "Name" : "Kyrie"
 
         },
@@ -33,7 +33,7 @@
             "Color" : "Yellow",
             "Alternate" : "Lightgoldenrod",
             "Emoji": "🏵️",
-            "Power": "Join",
+            "Power": "Connection",
             "Name" : "Gloria"
 
         },
@@ -42,7 +42,7 @@
             "Color" : "Purple",
             "Alternate" : "Lightgrey",
             "Emoji": "🧣",
-            "Power": "Select",
+            "Power": "Selection",
             "Name" : "Solemn"
 
         },
@@ -51,7 +51,7 @@
             "Color" : "Orange",
             "Alternate" : "Dimgrey",
             "Emoji": "👓",
-            "Power": "View",
+            "Power": "Impression",
             "Name" : "Missa"
 
         }
