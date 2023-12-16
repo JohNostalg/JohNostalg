@@ -4,7 +4,8 @@
         { 
             "Player": 1,
             "Color" : "Red",
-            "Alt Color" : "Firebrick",
+            "Alternate" : "Firebrick",
+            "Colourblind" : "Rust Orange",
             "Emoji": "💀",
             "Power": "Creation",
             "Name" : "Requiem"
@@ -14,6 +15,7 @@
             "Player": 2,
             "Color" : "Blue",
             "Alternate" : "Royalblue",
+            "Colourblind" : "Medium Persian Blue",
             "Emoji": "🦋",
             "Power": "Destruction",
             "Name" : "Hymn"
@@ -23,6 +25,7 @@
             "Player": 3,
             "Color" : "Green",
             "Alternate" : "Mediumseagreen",
+            "Colourblind" : "Light Cornflower Blue",
             "Emoji": "🪖",
             "Power": "Alteration",
             "Name" : "Kyrie"
@@ -32,6 +35,7 @@
             "Player": 4,
             "Color" : "Yellow",
             "Alternate" : "Lightgoldenrod",
+            "Colourblind" : "Peach",
             "Emoji": "🏵️",
             "Power": "Connection",
             "Name" : "Gloria"
@@ -41,6 +45,7 @@
             "Player": 5,
             "Color" : "Purple",
             "Alternate" : "Lightgrey",
+            "Colourblind" : "Quill Grey",
             "Emoji": "🧣",
             "Power": "Selection",
             "Name" : "Solemn"
@@ -50,6 +55,7 @@
             "Player": 6,
             "Color" : "Orange",
             "Alternate" : "Dimgrey",
+            "Colourblind" : "Davy Grey",
             "Emoji": "👓",
             "Power": "Impression",
             "Name" : "Missa"
